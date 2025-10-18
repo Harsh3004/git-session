@@ -67,6 +67,7 @@ int main(){
                     case 1:
                         cout << "Applying Selection Sort" << endl;
                         // Call selection sort function
+                        SelectionSort(arr,n);
                         break;
                         
                         case 2:
