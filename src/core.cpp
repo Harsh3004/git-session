@@ -1,20 +1,6 @@
 #include <iostream>
 using namespace std;
 
-void SelectionSort(int arr[],int n){
-    for(int i=0;i<n;i++){
-        int min=arr[i];
-        int m=i;
-        for(int j=i+1;j<n;j++){
-            if(arr[j]<min){
-                min=arr[j];
-                m=j;
-            }
-        }
-        swap(arr[i],arr[m]);
-    }
-}
-
 int main(){
     cout << "Welcome to CLI based array operations" << endl;
 
@@ -64,7 +50,6 @@ int main(){
                     case 1:
                         cout << "Applying Selection Sort" << endl;
                         // Call selection sort function
-                        SelectionSort(arr,n);
                         break;
                         
                         case 2:
