@@ -1,0 +1,75 @@
+[33mcommit 441ce6071290495e7f60ee892eac750ef68876b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mselectionsort_in_core[m[33m)[m
+Merge: ba2f9dd 5f3cfe6
+Author: KunalGore2005 <gorekunal665@gmail.com>
+Date:   Sat Oct 18 17:08:43 2025 +0530
+
+    Selection sort implemented
+
+[33mcommit ba2f9dd3c9d3da502a36918919cddabb09e852c9[m
+Author: KunalGore2005 <gorekunal665@gmail.com>
+Date:   Sat Oct 18 17:07:01 2025 +0530
+
+    Selection sort function implemented
+
+[33mcommit 5f3cfe64d6c18ee9fef4829fadc0ef393306a582[m
+Author: Harsh Joshi <harshjoshi3004@gmail.com>
+Date:   Sat Oct 18 16:47:17 2025 +0530
+
+    Add .gitignore and remove ignored files from tracking
+
+[33mcommit 4a7d89752d83507a96a20dec03f28dfdee1c8844[m
+Merge: d9332bd 5876679
+Author: Harsh Joshi <108462704+Harsh3004@users.noreply.github.com>
+Date:   Sat Oct 18 16:11:26 2025 +0530
+
+    Merge pull request #8 from Harsh3004/core
+    
+    CLI based user selection option implemented
+
+[33mcommit d9332bd793ff51a2581559e61ddc28d7b2cb6ebe[m
+Merge: 9fdbfe6 c50413e
+Author: Harsh Joshi <108462704+Harsh3004@users.noreply.github.com>
+Date:   Sat Oct 18 16:07:45 2025 +0530
+
+    Merge pull request #7 from Harsh3004/SelectionSort
+    
+    Selection Sort implemented
+
+[33mcommit 58766791b5d678478544f335fb934f762f359a41[m[33m ([m[1;31morigin/core[m[33m)[m
+Author: Harsh Joshi <harshjoshi3004@gmail.com>
+Date:   Sat Oct 18 16:05:52 2025 +0530
+
+    CLI based user selection option implemented
+
+[33mcommit c50413e99ced420c85ada5eafe13d3c5681ecddb[m[33m ([m[1;31morigin/SelectionSort[m[33m, [m[1;32mSelectionSort[m[33m)[m
+Author: KunalGore2005 <gorekunal665@gmail.com>
+Date:   Sat Oct 18 15:48:28 2025 +0530
+
+    Selection Sort implemented
+
+[33mcommit 9fdbfe6d6a90b60ca01cc3f57c31558bab66c5bb[m
+Merge: 2fbd7fc cce26e0
+Author: Harsh Joshi <108462704+Harsh3004@users.noreply.github.com>
+Date:   Sat Oct 18 15:12:14 2025 +0530
+
+    Merge pull request #6 from Harsh3004/feature/bubble-sort
+    
+    feat: implemented Bubble Sort Algorithm To Array
+
+[33mcommit cce26e0057f97fdcdb6a7df8dc6d8fbd767b82d8[m
+Author: Hard12-j <joshi12hardik@gmail.com>
+Date:   Sat Oct 18 00:05:55 2025 +0530
+
+    feat: implemented
+
+[33mcommit 2fbd7fcdfec2f59dcdcab82987316e302f7d04b7[m
+Author: Harsh Joshi <108462704+Harsh3004@users.noreply.github.com>
+Date:   Fri Oct 17 21:12:00 2025 +0530
+
+    Create Contribution.md
+
+[33mcommit efcdd35afc81f44c44a837396a1776e33bea6320[m
+Author: Harsh Joshi <harshjoshi3004@gmail.com>
+Date:   Fri Oct 17 19:57:33 2025 +0530
+
+    Initial Commit
