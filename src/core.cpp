@@ -17,7 +17,6 @@ void bubbleSort(int arr[],int n){
         }
     }
 }
-
 int main(){
     cout << "Welcome to CLI based array operations" << endl;
 
