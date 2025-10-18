@@ -36,6 +36,3 @@ Release/
 *.tmp
 *.bak
 *.swp
-
-# Ignore test/unwanted files
-fdsfsadf
