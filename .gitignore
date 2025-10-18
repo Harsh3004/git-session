@@ -1,0 +1,38 @@
+# Ignore build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+
+# Ignore debugging files
+*.pdb
+*.idb
+*.log
+
+# Ignore editor/IDE folders
+.vscode/
+.idea/
+*.code-workspace
+
+# Ignore OS-specific files
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+desktop.ini
+
+# Ignore build directories
+build/
+bin/
+dist/
+Debug/
+Release/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
