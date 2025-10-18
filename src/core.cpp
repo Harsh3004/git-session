@@ -1,17 +1,20 @@
 #include <iostream>
 using namespace std;
 
-void SelectionSort(int arr[],int n){
-    for(int i=0;i<n;i++){
-        int min=arr[i];
-        int m=i;
-        for(int j=i+1;j<n;j++){
-            if(arr[j]<min){
-                min=arr[j];
-                m=j;
+void bubbleSort(int arr[],int n){
+
+    for(int i = 0 ; i < n ; i++){
+        //after each iteration greatest element in (i to n-i) is at their correct position
+
+        for(int j = 0 ; j < n-i ; j++){
+
+            //we compare elements at j and j+1
+            if(arr[j] > arr[j+1]){
+
+                //if element at j is found greater then we swap j and j+1
+                swap(arr[j],arr[j+1]);
             }
         }
-        swap(arr[i],arr[m]);
     }
 }
 
@@ -69,7 +72,7 @@ int main(){
                         
                         case 2:
                         cout << "Applying Bubble Sort" << endl;
-                        // Call bubble sort function
+                        bubbleSort(arr,n);
                         break;
                     
                     default:
